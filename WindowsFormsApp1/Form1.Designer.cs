@@ -59,7 +59,7 @@
             this.btnPotvrdi.Name = "btnPotvrdi";
             this.btnPotvrdi.Size = new System.Drawing.Size(65, 79);
             this.btnPotvrdi.TabIndex = 41;
-            this.btnPotvrdi.Text = "Potvrdi";
+            this.btnPotvrdi.Text = "otvrdi";
             this.btnPotvrdi.UseVisualStyleBackColor = true;
             // 
             // lbFakultet
