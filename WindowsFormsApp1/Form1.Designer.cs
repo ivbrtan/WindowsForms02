@@ -55,7 +55,7 @@
             // 
             // btnPotvrdi
             // 
-            this.btnPotvrdi.Location = new System.Drawing.Point(228, 215);
+            this.btnPotvrdi.Location = new System.Drawing.Point(228, 205);
             this.btnPotvrdi.Name = "btnPotvrdi";
             this.btnPotvrdi.Size = new System.Drawing.Size(65, 79);
             this.btnPotvrdi.TabIndex = 41;
